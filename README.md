@@ -2,6 +2,10 @@
 
 Given a list of Tweet IDs, detect which ones have been deleted or made private.
 
+Developed in partnership with the [Social Analytics Institute](http://www.clemson.edu/centers-institutes/social-analytics/).
+
+## Usage
+
 ```Shell
 ./redact_detect.rb [file ...]
 ```
